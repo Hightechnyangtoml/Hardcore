@@ -1,0 +1,6 @@
+name: Hardcorerevive
+version: '${project.version}'
+main: kr.cafemoca.hardcorerevive.Hardcorerevive
+api-version: 1.19
+authors: [ CafeMoca ]
+description: Vanilla Hardcore Revive Plugin
